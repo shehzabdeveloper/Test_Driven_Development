@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Test-DrivenDevelopment</string>
+    <string name="username">USERNAME</string>
+    <string name="password">PASSWORD</string>
+    <string name="login">Login</string>
+    <string name="welcome_to_home_screen">Welcome to Home Screen</string>
+</resources>
